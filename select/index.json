@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "AVOID ME",
+  "base_artist": "KUTE",
+  "createdAt": "2026-03-26T15:55:39.858776Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Avoid Me Like The Plague",
+      "artist": "Once Nothing",
+      "has_synced": false,
+      "path": "select/01_Avoid_Me_Like_The_Plague_Once_Nothing.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "AVOID ME 2",
+      "artist": "KUTE",
+      "has_synced": true,
+      "path": "select/02_AVOID_ME_2_KUTE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "AVOID ME 3",
+      "artist": "KUTE",
+      "has_synced": false,
+      "path": "select/03_AVOID_ME_3_KUTE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'd Avoid Me Too",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/04_I'd_Avoid_Me_Too_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "KUTE - AVOID ME (Official Visualizer)",
+      "artist": "KUTE",
+      "has_synced": true,
+      "path": "select/05_KUTE_-_AVOID_ME_(Official_Visualizer)_KUTE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "AVOID ME 3 (Jeris Johnson Remix)",
+      "artist": "Kute/Jeris Johnson",
+      "has_synced": true,
+      "path": "select/06_AVOID_ME_3_(Jeris_Johnson_Remix)_Kute_Jeris_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "AVOID ME",
+      "artist": "Kute",
+      "has_synced": true,
+      "path": "select/07_AVOID_ME_Kute.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "AVOID ME 3 (Sped Up)",
+      "artist": "KUTE",
+      "has_synced": false,
+      "path": "select/08_AVOID_ME_3_(Sped_Up)_KUTE.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "AVOID ME 2 - Sped Up",
+      "artist": "KUTE",
+      "has_synced": false,
+      "path": "select/09_AVOID_ME_2_-_Sped_Up_KUTE.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "AVOID ME",
+      "artist": "Kute",
+      "has_synced": true,
+      "path": "select/10_AVOID_ME_Kute.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "AVOID ME - Slowed + Reverb",
+      "artist": "KUTE",
+      "has_synced": false,
+      "path": "select/11_AVOID_ME_-_Slowed_+_Reverb_KUTE.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "AVOID ME 3 - Jeris Johnson Remix",
+      "artist": "KUTE",
+      "has_synced": true,
+      "path": "select/12_AVOID_ME_3_-_Jeris_Johnson_Remix_KUTE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "AVOID ME 2 (Sped Up)",
+      "artist": "KUTE",
+      "has_synced": true,
+      "path": "select/13_AVOID_ME_2_(Sped_Up)_KUTE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "AVOID ME 3 (Jeris Johnson Remix)",
+      "artist": "KUTE, Jeris Johnson",
+      "has_synced": true,
+      "path": "select/14_AVOID_ME_3_(Jeris_Johnson_Remix)_KUTE,_Jeris_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'd Avoid Me Too",
+      "artist": "Yoakam, Dwight",
+      "has_synced": true,
+      "path": "select/15_I'd_Avoid_Me_Too_Yoakam,_Dwight.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Avoid Me",
+      "artist": "Artificial",
+      "has_synced": true,
+      "path": "select/16_Avoid_Me_Artificial.lrc"
+    }
+  ]
+}
